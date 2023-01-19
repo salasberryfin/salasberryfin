@@ -1,9 +1,9 @@
 # CJ Salas - salasberryfin
 
 I love Linux, Neovim and programming in Go and Python.
-I'm passionate about learning anything and I think that breaking stuff if the fastest way to really understand new technologies, so I spent lots of time tweaking things until I get the hang of them.
+I'm passionate about learning anything and I think that breaking stuff is the fastest way to really understand new technologies, so I spend lots of time tweaking things until I get the hang of them.
 
-I'm pretty sure you can get anywhere with a properly configured **Linux** machine + **Neovim**.
+I'm pretty sure you can get anywhere with a **Linux** machine + **Neovim**.
 
 ---
 <h3> &nbsp;About Me </h3>
@@ -20,9 +20,6 @@ I'm pretty sure you can get anywhere with a properly configured **Linux** machin
 
 ## My work
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
 
 - I design, develop and deploy software solutions in the public cloud.
 - More than 6 years of professional experience in software development.
@@ -52,7 +49,7 @@ I'm pretty sure you can get anywhere with a properly configured **Linux** machin
     ![Terraform](https://img.shields.io/badge/Terraform-%23121011.svg?style=for-the-badge&logo=Terraform&logoColor=white)
     
 - **Current projects**:
-  - Neovim plugin written in Python using the built-in API that allows to use not only vimscript or Lua: I love Neovim and learning the in and outs of it is very cool.
+  - Neovim plugin written in Python using the built-in API that allows to use not only vimscript or Lua: I love Neovim and learning the ins and outs of it is very cool.
   - My own version of a BitTorrent client in Go.
   - And constantly looking for open source projects where my skills allow me to contribute.
    

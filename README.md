@@ -35,7 +35,6 @@ I'm pretty sure you can get anywhere with a **Linux** machine + **Neovim**.
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    
     ![Go](https://img.shields.io/badge/Go%20-%2314354C.svg?style=for-the-badge&logo=go&logoColor=white)
     
     ![Aws](https://img.shields.io/badge/Aws%20-%2314354C.svg?style=for-the-badge&logo=Aws&logoColor=white)
@@ -43,7 +42,6 @@ I'm pretty sure you can get anywhere with a **Linux** machine + **Neovim**.
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
     ![Docker](https://img.shields.io/badge/Docker-%23121011.svg?style=for-the-badge&logo=docker&logoColor=white)
-    
     ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23121011.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
     
     ![Terraform](https://img.shields.io/badge/Terraform-%23121011.svg?style=for-the-badge&logo=Terraform&logoColor=white)

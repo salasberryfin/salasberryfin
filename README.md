@@ -46,10 +46,6 @@ I'm pretty sure you can get anywhere with a **Linux** machine + **Neovim**.
     
     ![Terraform](https://img.shields.io/badge/Terraform-%23121011.svg?style=for-the-badge&logo=Terraform&logoColor=white)
     
-- **Current projects**:
-  - Neovim plugin written in Python using the built-in API that allows to use not only vimscript or Lua: I love Neovim and learning the ins and outs of it is very cool.
-  - My own version of a BitTorrent client in Go.
-  - And constantly looking for open source projects where my skills allow me to contribute.
    
 
 ---

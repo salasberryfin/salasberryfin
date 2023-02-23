@@ -9,10 +9,10 @@ I'm pretty sure you can get anywhere with a **Linux** machine + **Neovim**.
 <h3> &nbsp;About Me </h3>
 
 - 😄 Pronouns: He/Him/His 
-- 🔭 I’m currently working on: ML monitoring platform in AWS
+- 🔭 I’m currently working on: anything container related
 - :heart: My favorite language: Go
 - 🌱 I’m currently learning: Rust and systems programming
-- 👯 I’m always looking to collaborate with: open source advocates
+- 👯 I’m always looking to collaborate with: open source enthusiasts
 - 💬 Ask me about: be my guest ;)
 - 🌍 I support: free software, nature and wildlife, advances in science and universal education and healthcare
 - 💜 Interests: nice friendships, cycling, nfl, music, international environments

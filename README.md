@@ -1,4 +1,4 @@
-# CJ Salas - salasberryfin
+# Carlos Salas - salasberryfin
 
 I love distributed systems, Linux, Neovim and programming in Go and Python.
 I'm passionate about learning anything and I think that breaking stuff is the fastest way to really understand new technologies, so I spend lots of time tweaking things until I get the hang of them.

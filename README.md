@@ -1,9 +1,6 @@
 # Carlos Salas - salasberryfin
 
-I love distributed systems, Linux, Neovim and programming in Go and Python.
-I'm passionate about learning anything and I think that breaking stuff is the fastest way to really understand new technologies, so I spend lots of time tweaking things until I get the hang of them.
-
-I'm pretty sure you can get anywhere with a **Linux** machine + **Neovim**.
+I love distributed systems, Linux, Neovim and programming.
 
 ---
 <h3> &nbsp;About Me </h3>
@@ -11,19 +8,11 @@ I'm pretty sure you can get anywhere with a **Linux** machine + **Neovim**.
 - 😄 Pronouns: He/Him/His 
 - 🔭 I’m currently working on: anything container related
 - :heart: My favorite language: Go
-- 🌱 I’m currently learning: Rust and systems programming
+- 🌱 I’m currently learning: cluster api
 - 👯 I’m always looking to collaborate with: open source enthusiasts
-- 💬 Ask me about: be my guest ;)
 - 🌍 I support: free software, nature and wildlife, advances in science and universal education and healthcare
 - 💜 Interests: nice friendships, cycling, nfl, music, international environments
 - ⚡ Fun fact: "yeah, well, that's just, like, your opinion, man"
-
-## My work
-
-
-- I design, develop and deploy software solutions in the public cloud.
-- More than 6 years of professional experience in software development.
-- Automation as a first class citizen of any project.
 
 ---
 

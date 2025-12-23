@@ -1,6 +1,6 @@
 # salasberryfin
 
-I love distributed systems, Linux, Neovim and programming.
+Linux :heart: nvim
 
 ---
 

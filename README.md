@@ -1,6 +1,8 @@
 # salasberryfin
 
+<p align="center">
 Linux :heart: nvim
+</p>
 
 ---
 

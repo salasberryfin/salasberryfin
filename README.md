@@ -1,7 +1,7 @@
 # salasberryfin
 
 <p align="center">
-Linux :heart: nvim
+Linux :blue_heart: nvim
 </p>
 
 ---
